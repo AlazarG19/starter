@@ -3,6 +3,10 @@
     font-family : Segoe Print;
     color : #777;
 }
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
 html,body{
     margin:0;
     padding:0;
